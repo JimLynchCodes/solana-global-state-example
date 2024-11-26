@@ -1,0 +1,1 @@
+# solana-global-state-example
